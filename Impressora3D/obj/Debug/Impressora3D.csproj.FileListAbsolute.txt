@@ -1,0 +1,12 @@
+E:\Repositorio\Impressora3D\Impressora3D\bin\Debug\Impressora3D.exe.config
+E:\Repositorio\Impressora3D\Impressora3D\bin\Debug\Impressora3D.exe
+E:\Repositorio\Impressora3D\Impressora3D\bin\Debug\Impressora3D.pdb
+E:\Repositorio\Impressora3D\Impressora3D\obj\Debug\Impressora3D.csprojAssemblyReference.cache
+E:\Repositorio\Impressora3D\Impressora3D\obj\Debug\Impressora3D.Properties.Resources.resources
+E:\Repositorio\Impressora3D\Impressora3D\obj\Debug\Impressora3D.csproj.GenerateResource.cache
+E:\Repositorio\Impressora3D\Impressora3D\obj\Debug\Impressora3D.csproj.CoreCompileInputs.cache
+E:\Repositorio\Impressora3D\Impressora3D\obj\Debug\Impressora3D.exe
+E:\Repositorio\Impressora3D\Impressora3D\obj\Debug\Impressora3D.pdb
+E:\Repositorio\Impressora3D\Impressora3D\obj\Debug\Impressora3D.Login.resources
+E:\Repositorio\Impressora3D\Impressora3D\obj\Debug\Impressora3D.ListaDocs.resources
+E:\Repositorio\Impressora3D\Impressora3D\obj\Debug\Impressora3D.Projetos.resources
